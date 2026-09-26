@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**wealthabadi-art/wealthabadi-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Wealthabadi 👋
 
-Here are some ideas to get you started:
+Creative from Port Harcourt, NG | Building my dev journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Web Development (HTML, CSS, JS)
+🎨 Loves Art, Design & Creating
+📍 Based in Rivers State, Nigeria
+📬 Let's connect here on GitHub!
+
+🛠️ Stack: HTML | CSS | JavaScript | Git
+
+⭐ From wealthabadi-art — more projects coming soon!
